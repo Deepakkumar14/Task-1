@@ -1,4 +1,4 @@
-
+//Main class
 import java.util.Scanner;
 import task1.*;
 public class Task1Runner {
